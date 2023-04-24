@@ -1,0 +1,11 @@
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\bin\Debug\ProyectorNavegador.exe.config
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\bin\Debug\ProyectorNavegador.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\bin\Debug\ProyectorNavegador.pdb
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.csproj.AssemblyReference.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.csproj.SuggestedBindingRedirects.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.Form1.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.Properties.Resources.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.csproj.GenerateResource.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.csproj.CoreCompileInputs.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\ProyectorNavegador\obj\Debug\ProyectorNavegador.pdb

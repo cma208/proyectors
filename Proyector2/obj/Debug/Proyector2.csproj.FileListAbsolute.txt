@@ -1,0 +1,11 @@
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\bin\Debug\Proyector2.exe.config
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\bin\Debug\Proyector2.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\bin\Debug\Proyector2.pdb
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.csproj.AssemblyReference.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.Form1.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.Properties.Resources.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.csproj.GenerateResource.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.csproj.CoreCompileInputs.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector2\obj\Debug\Proyector2.pdb

@@ -1,0 +1,16 @@
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\Proyector.exe.config
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\Proyector.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\Proyector.pdb
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.csproj.AssemblyReference.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.csproj.SuggestedBindingRedirects.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.Form1.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.Properties.Resources.resources
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.csproj.GenerateResource.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.csproj.CoreCompileInputs.cache
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.exe
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.pdb
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\EntityFramework.dll
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\EntityFramework.xml
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LABFACEE\source\repos\WinFormsApp2\Proyector\obj\Debug\Proyector.csproj.CopyComplete
